@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\Debug\program05_sram.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>program05_sram.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>program05_sram.map</FILE>
+  <FILE>program05_sram.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\main.asm</FILE><LINE>21</LINE></RESET>
+  <V_AA><FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\main.asm</FILE><LINE>32</LINE></V_AA>
+  <V_BB><FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\main.asm</FILE><LINE>33</LINE></V_BB>
+  <v_CC><FILE>C:\Users\s5735512002\Desktop\lab_micro\program05_sram\program05_sram\main.asm</FILE><LINE>34</LINE></v_CC>
+ </LABELS>
+</ASSEMBLER_INFO>

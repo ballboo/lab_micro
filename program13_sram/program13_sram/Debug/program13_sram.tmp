@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\micro\program13_sram\program13_sram\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\micro\program13_sram\program13_sram\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\micro\program13_sram\program13_sram\Debug\program13_sram.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>program13_sram.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>program13_sram.map</FILE>
+  <FILE>program13_sram.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>20</LINE></RESET>
+  <v_a><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>45</LINE></v_a>
+  <GR><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>33</LINE></GR>
+  <ENDIF><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>36</LINE></ENDIF>
+  <v_c><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>47</LINE></v_c>
+  <END><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>41</LINE></END>
+  <v_b><FILE>D:\micro\program13_sram\program13_sram\main.asm</FILE><LINE>46</LINE></v_b>
+ </LABELS>
+</ASSEMBLER_INFO>
